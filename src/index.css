@@ -1,0 +1,44 @@
+.todo-list{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-top: 100px;
+}
+h1{
+  font-size: 4rem;
+}
+button{
+  font-size: 1rem;
+  color: white;
+  padding: 10px 4px;
+  margin: 4px;
+  margin-left: 12px;
+  border-radius: 10px;
+  border: none;
+  padding: 12px;
+  cursor: pointer;
+}
+.move-button{
+  background-color: blue;
+}
+
+.dlt-button{
+  background-color: red;
+}
+.add-btn{
+  background-color: rgb(51, 240, 51);
+}
+input{
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 10px;
+  width: 300px;
+}
+ol{
+  padding: 0;
+}
+li{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 4px;
+}
